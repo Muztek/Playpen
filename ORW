@@ -1,1 +1,4 @@
 
+f = open('E:/LETESTORW.txt', 'r+')
+f.write('Hey man wsup')
+f.close()
